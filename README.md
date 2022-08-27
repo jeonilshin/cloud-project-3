@@ -1,2 +1,3 @@
-# cloud-project-3
-AWS ECS - Elastic Container Service
+# What is ECS?
+ECS - Elastic Container Service
+
